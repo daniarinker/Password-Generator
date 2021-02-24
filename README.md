@@ -49,10 +49,10 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/password-generator
 $ cd password-generator
 
 # Install dependencies
-$ yarn
+$ npm i 
 
 # Run the project
-$ yarn start
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
