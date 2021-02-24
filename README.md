@@ -25,13 +25,15 @@
 
 ## :dart: About
 
-<--- Describe your project --->
+AS AN employee with a need to access to sensitive data,
+A USER WANTS to randomly generate a password that meets certain criteria,
+SO THAT they can create a strong password that provides greater security.
 
-## :sparkles: Features
+Using this password generator, you are able to draft a new, secure password. At the click of a button, you are able to select a password length, and are asked to confirm certain elements into the password. The choices offered for inclusion are the following: uppercase letters, lowercase letters, symbols, and numeric characters. The range of the password must be inbetween 8 and 128 characters, and the password generator will not work if the parameters of length are not met, with a warning alert to notify the user of this. An option to include at least one type of character is required in order to create a password. 
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Once all prompts and confirms are answered, the password is generated. It will be secure and randomized, not creating the same password twice. If the user does not like the first generated password, they are welcome to hit the button to clear this password and generate a new one, repeating the process of generating a password as many times as wanted, matching all specified criteria by the user. 
+
+The user may copy and use the password once it is generated and displayed in the page.
 
 ## :white_check_mark: Requirements
 
