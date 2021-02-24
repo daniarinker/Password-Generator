@@ -38,14 +38,14 @@ const generatePassword = () => {
     );
     return "";
   }
-
+  // password options confirms to user
   const hasLower = confirm("Should it contain lower case characters?");
   const hasUpper = confirm("Should it contain upper case characters?");
   const hasSpecial = confirm("Should it contain special characters?");
   const hasNumeric = confirm("Should it contain numeric characters?");
   const options = { length, hasLower, hasUpper, hasSpecial, hasNumeric };
 
-  //setting a check to make sure that one of the above options was selected.
+  //setting a check to make sure that one of the above options was selected
   const validationCheck = hasLower || hasUpper || hasSpecial || hasNumeric;
   if (!validationCheck) {
     alert(
@@ -53,14 +53,14 @@ const generatePassword = () => {
     );
     return "";
   }
-
+  // blank password begins
   let output = "";
-  
+
   for (let i = 0; i < length; ++i) {
     let char = getRandomCharacter(options);
     output += char;
   }
-  //returns the final password combination
+  //returns the final password combination after adding characters until desired amount
   return output;
 };
 
