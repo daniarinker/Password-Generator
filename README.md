@@ -1,15 +1,7 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Password Generator" />
-
-  &#xa0;
-
-  <!-- <a href="https://passwordgenerator.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Password Generator</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/password-generator?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/daniarinker/password-generator?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/password-generator?color=56BEB8">
 
