@@ -9,7 +9,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/daniarinker/password-generator?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/daniarinker/password-generator?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/daniarinker/password-generator?color=56BEB8">
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/daniarinker/password-generator?color=56BEB8" /> -->
 
